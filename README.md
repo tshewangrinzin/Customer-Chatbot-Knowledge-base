@@ -1,8 +1,5 @@
 <div align="center">
       <h1>Customer Chatbot with Knowledge base</h1>
-  
-      Interact with your PDF documents effortlessly
-
 </div>
 
 
