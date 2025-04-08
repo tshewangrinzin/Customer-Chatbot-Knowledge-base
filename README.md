@@ -73,8 +73,7 @@
     pip install -r requirements.txt
   ```
 
-  4.Rename `.env.example` to `.env`
-  Acquire API keys through [aistudio.google.com](https://aistudio.google.com/) and [console.groq.com](https://console.groq.com) and put them in the `.env` file:
+  4.Rename `.env.example` to `.env` and acquire API keys through [aistudio.google.com](https://aistudio.google.com/) and [console.groq.com](https://console.groq.com) and put them in the `.env` file:
   ```bash
     GOOGLE_API_KEY="ENTER YOUR API"
     GROQ_API_KEY="ENTER YOUR API"
