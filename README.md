@@ -60,12 +60,12 @@
 
   1.Clone this repository to your local machine using:
   ```bash
-    git clone https://github.com/
+    git clone https://github.com/tshewangrinzin/Customer-Chatbot-Knowledge-base.git
   ```
 
   2.Navigate to the project directory:
   ```bash
-    cd ChatBot
+    cd Customer-Chatbot-Knowledge-base
   ```
 
   3.Install the required dependencies using pip:
