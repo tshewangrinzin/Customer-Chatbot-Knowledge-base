@@ -13,7 +13,7 @@
   - [Features](#features)
   - [Requirements](#requirements)
   - [Installation](#installation)
-  - [Contributing](#contributing)
+  - [Usage](#usage)
 
 
 
